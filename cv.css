@@ -1,0 +1,146 @@
+/* le style de l'en-tete du document*/
+.en-tete{
+    position:relative;
+    background-color: burlywood;
+    height: 120px;
+    margin-top: -24px;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-top: 10px ;
+    padding-left: 20px;
+    
+    
+
+    
+}
+    /* le style sur le titre du document */
+.titre{
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: center;
+    word-spacing: 10px;
+    text-shadow: 5px 5px 4px brown;
+}
+    /* le style sur l'image du titre *
+}
+/* le corp du document*/
+
+/* premier partie du corp */
+.lor{
+    background-color: cyan;
+    position: relative;
+    text-transform: uppercase;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-top: 10px;
+    padding-left: 20px;
+    line-height: 1;
+}
+/* titre du premier du corp */
+.run{
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 5px 5px 4px blue;
+}
+/* sous partie (bloc) */
+.piol{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    
+
+}
+  /* bloc1 */
+
+
+  /* bloc2 */
+.bloc2{
+    margin-left: 90px;
+}
+.img{
+    position: relative;
+    margin-right: 90px;
+    margin-left: -60px;
+    margin-bottom: 50px;
+    border-radius: 140px;
+    height: 300px;
+    width: 300px;
+    float: inline-end;
+}
+/* deuxieme partie du corp */
+.parcours{
+    background-color:dimgrey ;
+    margin-left: -15px;
+    margin-top: -15px;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-right: -70px;
+}
+/* troisieme partie du corp */
+.bud{
+    display: flex;
+    justify-content: space-between;
+    
+    font-size: 20px;
+    line-height: 0.4;
+}
+.ver{
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 5px 5px 4px rgb(75, 17, 17);
+    text-transform: uppercase;
+}
+.ok1{
+
+}
+.ok2{
+    
+    margin-right: 90px;
+}
+.groupage{
+    display: flex;
+}
+.competence{
+    background-color: teal;
+    padding-left: 10px;
+    margin-left:-10px;
+   margin-top: -20px;
+   width: 650px;
+}
+.interet{
+    background-color: goldenrod;
+    margin-top: -20px;
+    padding-left: 10px;
+    margin-right: -2000px;
+    
+    width: 700px;
+}
+.hop{
+    background-color: white;
+    text-transform: uppercase;
+    position: absolute;
+    margin-left: -10px;
+    padding-left: 10px;
+    
+    
+}
+.ty{
+    margin-top: 90px;
+}
+.lop{
+    background-color: white;
+    text-transform: uppercase;
+    position: absolute;
+    margin-left: -10px;
+    padding-left: -10px;
+
+}
+.cop{
+    margin-top: 90px ;
+}
+
+
+
+
+
+
